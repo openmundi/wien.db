@@ -1,0 +1,6 @@
+
+adams,        Adam's Café-Restaurant, Florianigasse 2, Mo-Fr 8-24
+eiles,        Café Eiles, Josefstädter Straße 2, Mo-Fr 7-22 // Sa+So+Feier 8-22
+florianihof,  Café Florianihof, Florianigasse 45, Mo-Fr 8-24, Sa+Feier 10-20
+
+

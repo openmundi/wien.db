@@ -1,0 +1,29 @@
+
+####
+# some ideas for tags
+#  use viennale for cinemas hosting viennale
+#  use arthouse? for cinemas with "non-mainstream" movies
+#  use indie if not part of mega chain
+#  use multiplex for multiplex
+#  use en|fr  for english or french movies, for example
+#  use kids  for children-friendly programming
+#  use museum|retro ? for museum-like cinema (retro)
+
+actors,          Actor's Studio, Tuchlauben 13,  cineplexx
+artis,           Artis International, Schultergasse 5,  cineplexx
+burgkino,        Burg Kino,  Opernring 19,   indie|en
+cinecenter,      Cine Center, Fleischmarkt 6
+urania,          Urania, Uraniastraße 1, indie
+uraniacineplexx, Urania Filmtheater, Uraniastraße 1, cineplexx
+uraniacinemagic, Cinemagic in der Urania, Uraniastraße 1, indie|kids
+defrance,        De France, Schottenring 5, fr
+filmmuseum,      Filmmuseum, Augustinerstraße 1, museum|arthouse|retro
+gartenbau,       Gartenbaukino, Parkring 12, viennale|arthouse|retro|indie
+
+
+
+
+
+
+
+

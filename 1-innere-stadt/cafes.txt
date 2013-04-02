@@ -1,0 +1,13 @@
+
+altwien,     Café Alt Wien, Bäckerstraße 9, Mo-Do / So+Feier 10-2 // Fr+Sa 10-3
+braeunerhof, Café Bräunerhof, Stallburggasse 2, Mo-Fr 8-21 // Sa 8-19 //So+Feier 10-19
+central,     Café Central, Herrengasse/Ecke Strauchgasse, Mo-So 7½-22  # NB: Mo-So = taeglich - find a shortcut?
+diglas,      Café Diglas, Wollzeile 10, Mo-So 8-22½  # NB: taeglich
+diglasii,    Café Diglas II, Fleischmark 16, Mo-So 8-19  # NB: taeglich --Juli,August So+Feier -X- (geschlossen)
+englaender,  Café Engländer, Postgasse 2, Mo-Sa 8-1 // So+Feier 10-1
+frauenhuber, Café Frauenhuber, Himmelpfortgasse 6, Mo-Sa 8-22 // So+Feier 10-22
+
+
+
+
+

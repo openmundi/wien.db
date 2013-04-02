@@ -1,0 +1,7 @@
+
+
+######
+# ignore komodo project file
+
+*.kpf
+
