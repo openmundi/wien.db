@@ -1,1 +1,2 @@
 highlander, Highlander Scottish Pub, Garnisongasse 3, Mo-So 15-2, http://www.highlanderpub.at, scottish_pub|guinness
+charliep, Charlie P's Pub & Dining, Währinger Strasse 3, Mo-Do 14-2 // Fr 14-3 // Sa 13-3 // So 13-1, www.charlieps.at, british_pub|guinness
